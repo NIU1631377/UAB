@@ -14,6 +14,8 @@ Donat un node inicial en un graf, descobreix el graf mitjançant l'algorisme BFS
 @return: llista de nodes visitats
 '''
 def BFS(init_node):
+    if(nada):
+        pass
     return list()
 
 '''
