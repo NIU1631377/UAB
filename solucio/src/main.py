@@ -56,7 +56,7 @@ def crea_internet():
 
     internet.add_edge(LOLCommunity, JocsiEsport)
     internet.draw()
-    return (internet)
+    return internet
 
 
 if __name__ == '__main__':
